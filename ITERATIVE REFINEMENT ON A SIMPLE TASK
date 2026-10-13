@@ -1,4 +1,4 @@
-#WEEK 3: ITERATIVE REFINEMENT ON A SIMPLE TASK
+# WEEK 3: ITERATIVE REFINEMENT ON A SIMPLE TASK
  
 print("===== WEEK 3: ITERATIVE REFINEMENT =====")
  
@@ -43,3 +43,4 @@ print("\n--- REFINEMENT 2 ---")
 print(prompt3)
 print("\n--- FINAL REFINED PROMPT ---")
 print(prompt4)
+ 
